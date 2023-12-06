@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **TayaneCibely/TayaneCibely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,3 +47,4 @@
 </div>
 
 ![Snake animation](https://github.com/TayaneCibely/TayaneCibely/blob/output/github-contribution-grid-snake.svg)
+-->
