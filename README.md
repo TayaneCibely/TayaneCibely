@@ -5,6 +5,8 @@
 
 ### Estudante de Ciência da Computação na Universidade Federal do Agreste de Pernambuco - UFAPE
 
+<hr>
+
 ## Linguagens & Tecnologias
 
 <div>
