@@ -28,6 +28,7 @@
   </a>
 </div>
 
+<hr>
 
 <div>
         <a href="https://github.com/TayaneCibely">
