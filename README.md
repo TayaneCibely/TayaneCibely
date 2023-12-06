@@ -3,7 +3,7 @@
 # 👋Olá, me chamo Tayane!
 ## Bem vindo ao meu perfil Github
 
-## Estudante de Ciência da Computação na Universidade Federal do Agreste de Pernambuco - UFAPE
+### Estudante de Ciência da Computação na Universidade Federal do Agreste de Pernambuco - UFAPE
 
 ## Linguagens & Tecnologias
 
