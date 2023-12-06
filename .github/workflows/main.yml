@@ -1,4 +1,4 @@
-nerate Datas
+generate Datas
 
 on:
   schedule: # execute every 12 hours
