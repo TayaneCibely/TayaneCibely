@@ -10,11 +10,11 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: athul/waka-readme@master
-        with:
+      - name: Update README with WakaTime stats
+        uses: athul/waka-readme@master
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
