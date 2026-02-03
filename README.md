@@ -5,10 +5,7 @@
 
 ### Graduanda em Ciência da Computação na Universidade Federal do Agreste Pernambuco - UFAPE
 
-<[Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TayaneCibely&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) >
 
-
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=TayaneCibely&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 
 ## Linguagens de Marcação e Estilo
