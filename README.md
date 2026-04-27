@@ -5,7 +5,27 @@
 
 ### Graduanda em Ciência da Computação na Universidade Federal do Agreste Pernambuco - UFAPE
 
+---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TayaneCibely&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=30A3DC&title_color=E94D5F&text_color=ffffff&icon_color=30A3DC" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TayaneCibely&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TayaneCibely&&theme=tokyonight" alt="Summary Card">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayaneCibely&layout=compact&theme=tokyonight&bg_color=00000000&title_color=E94D5F&text_color=ffffff" alt="Top Langs">
+</p>
+
+---
 
 
 ## Linguagens de Marcação e Estilo
@@ -21,9 +41,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
- <!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 ## Biblioteca e Frameworks
 
