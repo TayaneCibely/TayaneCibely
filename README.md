@@ -235,7 +235,7 @@ Estou sempre aberta a trocar ideias sobre desenvolvimento, pesquisa, usabilidade
 </picture>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TayaneCibely&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=TayaneCibely&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=TayaneCibely&icon=10&color=7B2CBF)](https://visitcount.itsvg.in)
