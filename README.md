@@ -123,16 +123,47 @@ Na monitoria, coordeno o acompanhamento de equipes e avalio a evolução de proj
 
 </div>
 
-## 📈 GitHub em números
+<h1 data-importer="text" align="center">GitHub em números</h1>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TayaneCibely&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&icon_color=4CC9F0&text_color=C9D1D9" alt="Estatísticas do GitHub de Tayane">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayaneCibely&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&text_color=C9D1D9" alt="Linguagens mais utilizadas">
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
+###
+
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
+
+###
+
 <div align="center">
 
-### 💬 Vamos conversar?
+### 💬 Aberta a conversas
 
 Estou sempre aberta a trocar ideias sobre desenvolvimento, pesquisa, usabilidade e Engenharia de Software.
 
