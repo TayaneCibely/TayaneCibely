@@ -228,6 +228,12 @@ Estou sempre aberta a trocar ideias sobre desenvolvimento, pesquisa, usabilidade
 ![](https://streak-stats.demolab.com/?user=TayaneCibely&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TayaneCibely&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TayaneCibely/TayaneCibely/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TayaneCibely/TayaneCibely/output/github-snake.svg" />
+  <img alt="Animação da cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/TayaneCibely/TayaneCibely/output/github-snake.svg" />
+</picture>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TayaneCibely&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
 
