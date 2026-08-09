@@ -1,70 +1,145 @@
-# **Olá, eu sou Tayane Rodrigues! 👋**
-## Bem vindo ao meu perfil do Github
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:4361EE,100:4CC9F0&height=200&section=header&text=Tayane%20Cibely&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Engenharia%20de%20Software%20%7C%20IHC&descAlignY=58&descSize=17" alt="Cabeçalho: Tayane Cibely" />
 
-## 🚀 Sobre mim
+<div align="center">
 
-### Graduanda em Ciência da Computação na Universidade Federal do Agreste Pernambuco - UFAPE
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=650&lines=Desenvolvimento+web+e+mobile;Engenharia+de+Software+na+pr%C3%A1tica;Pesquisa+em+IHC+e+usabilidade;Tecnologia+com+prop%C3%B3sito+%F0%9F%92%9C)](https://git.io/typing-svg)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TayaneCibely&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=30A3DC&title_color=E94D5F&text_color=ffffff&icon_color=30A3DC" alt="GitHub Stats">
+<p>
+  <a href="https://www.linkedin.com/in/tayane-cibely-rodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/tayanecibely/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:tayane.cibely@ufape.edu.br"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.dio.me/users/tayanerodrigues2001"><img src="https://img.shields.io/badge/Perfil_DIO-111111?style=for-the-badge&logo=gitbook&logoColor=white" alt="Perfil na DIO"></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TayaneCibely&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak">
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TayaneCibely&&theme=tokyonight" alt="Summary Card">
-</p>
+## 👩‍💻 Sobre mim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayaneCibely&layout=compact&theme=tokyonight&bg_color=00000000&title_color=E94D5F&text_color=ffffff" alt="Top Langs">
-</p>
+Sou graduanda em **Ciência da Computação na Universidade Federal do Agreste de Pernambuco (UFAPE)**, em Garanhuns–PE. Gosto de transformar problemas reais em soluções digitais bem estruturadas, acessíveis e agradáveis de usar.
 
----
+- 🎓 Atuo na **monitoria de Engenharia de Software**, acompanhando equipes, projetos e entregas acadêmicas.
+- 💻 Desenvolvo aplicações web, APIs e projetos mobile com tecnologias como **Java, Spring Boot, Angular, Node.js, Flutter e Ruby on Rails**.
+- 🔎 Tenho interesse em **Interação Humano–Computador, usabilidade, qualidade de software e Inteligência Artificial**.
+- 🧠 Minha pesquisa atual envolve a avaliação das **heurísticas de Nielsen** e a comparação entre inspeção manual e análise apoiada pela **Solaria-GPT**.
+- 🌱 Acredito em tecnologia com propósito, colaboração e aprendizado contínuo.
 
+## 🧑‍🏫 Monitoria e avaliação em Engenharia de Software
 
-## Linguagens de Marcação e Estilo
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Na monitoria, coordeno o acompanhamento de equipes e avalio a evolução de projetos acadêmicos organizados no GitHub, considerando aspectos como **requisitos, planejamento, versionamento, arquitetura, implementação e qualidade das entregas**.
 
-## Linguagens
+<p align="center"><b>Algumas organizações acompanhadas:</b></p>
 
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/Grupo-ProjetoES">
+        <img src="https://github.com/Grupo-ProjetoES.png?size=100" width="72" alt="Grupo Projeto ES"><br>
+        <sub><b>Grupo Projeto ES</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/projeto-disciplina-ES-2026">
+        <img src="https://github.com/projeto-disciplina-ES-2026.png?size=100" width="72" alt="Projeto Disciplina ES 2026"><br>
+        <sub><b>Projeto ES 2026</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Grupo-4-ES-2026-1">
+        <img src="https://github.com/Grupo-4-ES-2026-1.png?size=100" width="72" alt="Grupo 4 ES 2026.1"><br>
+        <sub><b>Grupo 4 — ES 2026.1</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/SistemaConcessionaria-de-Veiculos">
+        <img src="https://github.com/SistemaConcessionaria-de-Veiculos.png?size=100" width="72" alt="Sistema Concessionária de Veículos"><br>
+        <sub><b>Concessionária de Veículos</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/projeto-gerenciador-musica">
+        <img src="https://github.com/projeto-gerenciador-musica.png?size=100" width="72" alt="Projeto Gerenciador de Música"><br>
+        <sub><b>Gerenciador de Música</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/qampus-ufape">
+        <img src="https://github.com/qampus-ufape.png?size=100" width="72" alt="Qampus UFAPE"><br>
+        <sub><b>Qampus UFAPE</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/ScientiaUFAPE">
+        <img src="https://github.com/ScientiaUFAPE.png?size=100" width="72" alt="Scientia UFAPE"><br>
+        <sub><b>Scientia UFAPE</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/MentoriaAgil">
+        <img src="https://github.com/MentoriaAgil.png?size=100" width="72" alt="Mentoria Ágil"><br>
+        <sub><b>Mentoria Ágil</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 🚀 Projetos em destaque
+
+| Projeto | Sobre | Tecnologias |
+| --- | --- | --- |
+| 💰 **FinPro** — [Backend](https://github.com/TayaneCibely/finpro-service) · [Frontend](https://github.com/TayaneCibely/finpro-front) | Plataforma de gestão financeira pessoal com autenticação, controle de receitas e despesas e perfil de investidor. | Java, Spring Boot, Angular, PostgreSQL, GCP |
+| ☀️ [**Atmus**](https://github.com/TayaneCibely/Atmus) | Aplicativo de previsão do tempo com busca por cidades, favoritos, dados climáticos e experiência pensada para diferentes perfis de usuário. | Flutter, Dart, API REST, Figma |
+| 🦷 [**SorriaBem**](https://github.com/TayaneCibely/SorriaBem) | Sistema colaborativo para gerenciamento de consultório odontológico, usuários, profissionais e consultas. | Ruby, Rails, CI/CD, GitHub Actions |
+| 📊 [**PIBIC**](https://github.com/TayaneCibely/PIBIC) | Pesquisa com aprendizagem de máquina aplicada a dados de estudantes da rede pública de Pernambuco. | Python, Machine Learning, Google Colab |
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+### Desenvolvimento
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-
-
-## Biblioteca e Frameworks
-
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-## Banco de Dados
+### Dados, cloud e fluxo de trabalho
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Sistemas Operacionais
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
-![Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)	
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+</div>
 
-## Redes Sociais
+## 📈 GitHub em números
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/tayanerodrigues2001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/intayane-cibely-rodrigues/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@hayan6571/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TayaneCibely)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:tayane.cibely@ufape.edu.br)
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TayaneCibely&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&icon_color=4CC9F0&text_color=C9D1D9" alt="Estatísticas do GitHub de Tayane">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayaneCibely&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&text_color=C9D1D9" alt="Linguagens mais utilizadas">
+</div>
+
+<div align="center">
+
+### 💬 Vamos conversar?
+
+Estou sempre aberta a trocar ideias sobre desenvolvimento, pesquisa, usabilidade e Engenharia de Software.
+
+[![Instagram](https://img.shields.io/badge/@tayanecibely-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tayanecibely/)
+[![LinkedIn](https://img.shields.io/badge/Tayane_Cibely-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayane-cibely-rodrigues/)
+[![E-mail](https://img.shields.io/badge/tayane.cibely@ufape.edu.br-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tayane.cibely@ufape.edu.br)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:4361EE,100:4CC9F0&height=110&section=footer" alt="Rodapé decorativo" />
