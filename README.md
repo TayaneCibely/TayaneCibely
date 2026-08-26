@@ -124,7 +124,7 @@
 | 🏢 [**CondoMine**](https://github.com/CondoMine/CondoMine) | Sistema SaaS para gerenciamento de ambientes, patrimônios, reservas e checklists em condomínios. | Ruby, Rails, Codacy, Render, GitHub Actions |
 
 <div>
-  # 💻 Tech Stack
+  ## 💻Tech Stack
 
   ## Linguagens de Programação
   ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
